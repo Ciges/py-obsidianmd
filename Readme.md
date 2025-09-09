@@ -15,6 +15,11 @@ The following modifications had been made by [José Manuel Ciges](https://github
 
 - Removed dependency on hydra module to run the tests
 
+All tests run fine with pytest
+
+```bash
+pytest tests/
+```
 
 ## Presentation video
 
