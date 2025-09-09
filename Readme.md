@@ -1,11 +1,19 @@
-# py-obsidianmd
+# py-obsidianmd-v2
 
 A python library for modifying [Obsidian](https://obsidian.md/) notes in batch.
+
+Based on the original [py-obsidianmd](https://github.com/selimrbd/py-obsidianmd) library by [Selim Raboudi](https://github.com/selimrbd)
 
 See the [full documentation](https://selimrbd.github.io/py-obsidianmd/)
 
 :warning: **Consider backing up your vault** before using the library, to avoid any risk of data loss. You can test the library on this [example vault](https://github.com/selimrbd/example-vault)
 
+
+## Modifications made
+
+The following modifications had been made by [José Manuel Ciges](https://github.com/ciges)
+
+- Removed dependency on hydra module to run the tests
 
 
 ## Presentation video
